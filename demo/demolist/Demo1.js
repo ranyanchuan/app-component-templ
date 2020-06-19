@@ -12,7 +12,7 @@ class Demo1 extends Component {
   render() {
     return (
       <div className="demoPadding">
-        <ComponentName>tools测试代码</ComponentName>
+        <ComponentName>tools测试代码 代码拷贝22</ComponentName>
       </div>
     )
   }
