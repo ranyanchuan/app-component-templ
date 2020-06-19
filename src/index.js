@@ -1,2 +1,3 @@
-import Temp from './temp';
-export default Temp;
+import ComponentName from './ComponentName';
+
+export default ComponentName;

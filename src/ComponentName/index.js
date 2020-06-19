@@ -1,7 +1,8 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
-import './style.scss';
-const propTypes = {}
+import './index.less';
+
+const propTypes = {};
 
 class Temp extends Component {
 
@@ -12,7 +13,7 @@ class Temp extends Component {
   render() {
     return (
       <div className="temp-main">
-        示例fsfasdfassdffsf
+        这里是扩展组件
       </div>
     );
   }
