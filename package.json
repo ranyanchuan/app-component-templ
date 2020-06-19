@@ -1,5 +1,5 @@
 {
-  "name": "ac-component-templ",
+  "name": "faw-component-templ",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
@@ -16,14 +16,14 @@
     "deploy": "npm run clear:gh-pages && webpack --config config/webpack.config.ghpages.js"
   },
   "bugs": {
-    "url": "https://github.com/tinper-acs/app-component-templ/issues"
+    "url": "http://10.133.92.106/faw-fusion/app-component-templ/issues"
   },
-  "homepage": "https://github.com/tinper-acs/app-component-templ#readme",
+  "homepage": "http://10.133.92.106/faw-fusion/app-component-templ#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tinper-acs/app-component-templ.git"
+    "url": "git+http://10.133.92.106/faw-fusion/app-component-templ.git"
   },
-  "author": "wangshih@yonyou.com && chenpanf@yonyou.com",
+  "author": "ranyanchuan@yonyou.com",
   "license": "MIT",
   "files": [
     "package.json",
